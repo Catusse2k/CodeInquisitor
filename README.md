@@ -381,7 +381,7 @@ dependency is `include/cpptui.hpp`, a single-header C++17 TUI library
   library created by **jonoton**. Vendored here as `include/cpptui.hpp`
   under the MIT license. Special thanks to jonoton for this great project.
 - PE parsing, heuristic engine, report generator and application logic
-  are original work written for CodeInquisitor.
+  are original work written for Catusse.
 
 Released under the **MIT License**:
 
