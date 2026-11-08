@@ -380,8 +380,7 @@ dependency is `include/cpptui.hpp`, a single-header C++17 TUI library
   [cpp-tui](https://github.com/jonoton/cpp-tui), a single-header C++17
   library created by **jonoton**. Vendored here as `include/cpptui.hpp`
   under the MIT license. Special thanks to jonoton for this great project.
-- PE parsing, heuristic engine, report generator and application logic
-  are original work written for Catusse.
+- PE analysis, heuristic engine, report generator, and application logic are original works written by Catusse.
 
 Released under the **MIT License**:
 
